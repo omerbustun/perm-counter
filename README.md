@@ -1,4 +1,4 @@
 # perm-length-finder
-My solution to a HackerRank question
+[EN] How many 5-digit numbers that are divisible by 3 can be written using the digits 0, 1, 2, 3, 4, 5 without repetition?
 
 ![Question](img/question.jpg)
